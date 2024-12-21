@@ -14,4 +14,4 @@ Techniques and Concepts
 
   $\large \sum V = 0$
 
-  - Kirchhoff's Current Law (KCL): The sum of currents entering a node is equal to the sum of currents leaving the node.
+- Kirchhoff's Current Law (KCL): The sum of currents entering a node is equal to the sum of currents leaving the node.
