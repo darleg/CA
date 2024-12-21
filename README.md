@@ -12,7 +12,7 @@ Techniques and Concepts
 
 - Kirchhoff's Voltage Law (KVL): The sum of all voltages around a closed loop is zero.
 
-  $$\large \sum V=0\$$
+  $$\large\sum V=0$$
 
 - Kirchhoff's Current Law (KCL): The sum of currents entering a node is equal to the sum of currents leaving the node.
 
