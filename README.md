@@ -12,11 +12,11 @@ Techniques and Concepts
 
 - Kirchhoff's Voltage Law (KVL): The sum of all voltages around a closed loop is zero.
 
-  $\large \sum V = 0$
+  $$\large \sum V = 0$$
 
 - Kirchhoff's Current Law (KCL): The sum of currents entering a node is equal to the sum of currents leaving the node.
 
-   $\large \sum I = 0$
+   $$\large \sum I = 0$$
 
 3. Thevenin's Theorem: Any linear electrical network with voltage sources and resistances can be replaced by an equivalent single voltage 
    source and a single series resistance.
