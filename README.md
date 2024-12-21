@@ -10,4 +10,4 @@ Techniques and Concepts
 
 2. Kirchhoff's Laws:
 
-Kirchhoff's Voltage Law (KVL): The sum of all voltages around a closed loop is zero.
+- Kirchhoff's Voltage Law (KVL): The sum of all voltages around a closed loop is zero.
