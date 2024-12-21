@@ -6,7 +6,7 @@ Here are some fundamental techniques and concepts used in circuit analysis:
 Techniques and Concepts
 1. Ohm's Law:
   
-  \begin{equation}\large V=IR \end{equation}
+  $$\large V=IR \$$
    
 3. Kirchhoff's Laws:
 
