@@ -7,3 +7,7 @@ Techniques and Concepts
 1. Ohm's Law:
   
    $\large V=IR$
+
+2. Kirchhoff's Laws:
+
+Kirchhoff's Voltage Law (KVL): The sum of all voltages around a closed loop is zero.
