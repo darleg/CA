@@ -4,4 +4,6 @@ Circuit analysis involves determining the voltages and currents in each componen
 Here are some fundamental techniques and concepts used in circuit analysis:
 
 Techniques and Concepts
-1. Ohm's Law:    $V=IR$
+1. Ohm's Law:
+  
+   $V=IR$
