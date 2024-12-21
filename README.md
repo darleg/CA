@@ -6,13 +6,13 @@ Here are some fundamental techniques and concepts used in circuit analysis:
 Techniques and Concepts
 1. Ohm's Law:
   
-  $$\large V=IR \$$
+  $$\large V=IR$$
    
 3. Kirchhoff's Laws:
 
 - Kirchhoff's Voltage Law (KVL): The sum of all voltages around a closed loop is zero.
 
-  $$\large \sum V = 0$$
+  $$\large \sum_V = 0$$
 
 - Kirchhoff's Current Law (KCL): The sum of currents entering a node is equal to the sum of currents leaving the node.
 
