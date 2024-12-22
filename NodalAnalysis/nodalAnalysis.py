@@ -1,14 +1,14 @@
-import numpy as np
+from numpy import array, linalg
 
 # Perform nodal analysis using the conductance matrix and current vector.
 def nodalAnalysis(Gmat, Ivec):
     # Solve for the node voltages using numpy's linear algebra solver
-    nodeVoltages = np.linalg.solve(Gmat, Ivec)
+    nodeVoltages = linalg.solve(Gmat, Ivec)
     return nodeVoltages
 
 # Example usage:
-G = np.array([[10, -2, 0], [-2, 12, -5], [0, -5, 15]])
-I = np.array([3, 0, 5])
+G = array([[10, -2, 0], [-2, 12, -5], [0, -5, 15]])
+I = array([3, 0, 5])
 
 # Perform nodal analysis
 V = nodalAnalysis(G, I)
