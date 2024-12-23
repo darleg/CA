@@ -3,10 +3,7 @@ in each loop of a circuit. It’s based on Kirchhoff's Voltage Law (KVL), which 
 that the sum of all voltages around any closed loop in a circuit must be zero.
 
 Steps for Mesh Analysis:
-Identify independent loops in the circuit.
-
-Assign loop currents to each independent loop.
-
-Apply KVL to each loop, writing equations for the sum of voltage drops.
-
-Solve the simultaneous equations to find the loop currents.
+1. Identify independent loops in the circuit.
+2. Assign loop currents to each independent loop.
+3. Apply KVL to each loop, writing equations for the sum of voltage drops.
+4. Solve the simultaneous equations to find the loop currents.
