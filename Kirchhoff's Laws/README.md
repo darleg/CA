@@ -1,3 +1,4 @@
+# Kirchhoff's Laws
 Kirchhoff's Laws are fundamental principles used in electrical circuit analysis. 
 They consist of two main laws: Kirchhoff's Current Law (KCL) and 
 Kirchhoff's Voltage Law (KVL).
