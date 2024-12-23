@@ -9,13 +9,8 @@ Kirchhoff's Current Law (KCL):
 - Equation: $$\sum I_{in} = \sum I_{out}$$
 
 - Application: Used to analyze the current distribution in complex circuits. For example, 
-  at a node with three branches, if the currents entering are 
-𝐼
-1
- and 
-𝐼
-2
-, and the current leaving is 
+  at a node with three branches, if the currents entering are 𝐼_1 and 𝐼_2, and the
+  current leaving is 
 𝐼
 3
 , then 
