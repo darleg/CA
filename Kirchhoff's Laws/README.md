@@ -16,7 +16,7 @@ Kirchhoff's Voltage Law (KVL):
   that the total energy gained by charges per loop is equal to the energy lost.
 - Equation: $$\sum V = 0$$
 - Application: Used to determine the voltage drops across components in a loop. For 
-  example, in a loop with a voltage source 𝑉and resistors 𝑅1 and 𝑅2
+  example, in a loop with a voltage source $𝑉$ and resistors $𝑅_{1}$ and $𝑅_{2}$
  with currents𝐼
 1
  and 
