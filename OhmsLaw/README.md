@@ -1,5 +1,6 @@
 ohm's law
-Ohm's Law is a fundamental principle in electrical engineering and physics that describes the relationship between voltage (𝑉), current (𝐼), and resistance (𝑅). It states that the current through a conductor between two points is directly proportional to the voltage across the two points and inversely proportional to the resistance. The mathematical formula is:𝑉=𝐼⋅𝑅
+Ohm's Law is a fundamental principle in electrical engineering and physics that describes the relationship between voltage (𝑉), current (𝐼), and resistance (𝑅). It states that the current through a conductor between two points is directly proportional to the voltage across the two points and inversely proportional to the resistance. The mathematical formula is:
+$$𝑉=𝐼⋅𝑅$$
 Where:
 
 𝑉
