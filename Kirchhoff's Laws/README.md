@@ -8,7 +8,8 @@ Kirchhoff's Current Law (KCL):
   the total current flowing into a node is zero.
 - Equation: $$\sum I_{in} = \sum I_{out}$$
 
-Application: Used to analyze the current distribution in complex circuits. For example, at a node with three branches, if the currents entering are 
+- Application: Used to analyze the current distribution in complex circuits. For example, 
+  at a node with three branches, if the currents entering are 
 𝐼
 1
  and 
