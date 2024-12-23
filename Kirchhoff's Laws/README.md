@@ -13,20 +13,14 @@ Kirchhoff's Current Law (KCL):
   current leaving is $𝐼_{3}$, then $𝐼_{1}+𝐼_{2}=𝐼_{3}$.
 
 Kirchhoff's Voltage Law (KVL):
-Statement: The sum of all voltages around a closed loop in a circuit is zero. This means that the total energy gained by charges per loop is equal to the energy lost.
+- Statement: The sum of all voltages around a closed loop in a circuit is zero. This means 
+  that the total energy gained by charges per loop is equal to the energy lost.
 
-Equation: $$\sum V = 0$$
+- Equation: $$\sum V = 0$$
 
-Application: Used to determine the voltage drops across components in a loop. For example, in a loop with a voltage source 
-𝑉
- and resistors 
-𝑅
-1
- and 
-𝑅
-2
- with currents 
-𝐼
+- Application: Used to determine the voltage drops across components in a loop. For 
+  example, in a loop with a voltage source 𝑉and resistors 𝑅1 and 𝑅2
+ with currents𝐼
 1
  and 
 𝐼
