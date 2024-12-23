@@ -10,5 +10,3 @@ Where:
 - 𝑅 is the resistance (in ohms, Ω)
 
 In simpler terms, Ohm's Law tells us that if we increase the voltage, the current will increase, provided the resistance remains constant. Conversely, if we increase the resistance while keeping the voltage constant, the current will decrease.
-
-Is there anything specific about Ohm's Law you'd like to explore further?
