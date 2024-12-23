@@ -17,5 +17,5 @@ Kirchhoff's Voltage Law (KVL):
 - Equation: $$\sum V = 0$$
 - Application: Used to determine the voltage drops across components in a loop. For 
   example, in a loop with a voltage source $𝑉$ and resistors $𝑅_{1}$ and $𝑅_{2}$
-  with currents $𝐼_{1}$ and $𝐼_{2}, the equation might
-                look like $𝑉−𝐼_{1}𝑅_{1}−𝐼_{2}𝑅_{2}=0$.
+  with currents $𝐼_{1}$ and $𝐼_{2}, the equation might look like
+  $𝑉−𝐼_{1}𝑅_{1}−𝐼_{2}𝑅_{2}=0$.
