@@ -7,11 +7,9 @@ Kirchhoff's Current Law (KCL):
   is equal to the sum of all currents leaving the node. Essentially, it means that 
   the total current flowing into a node is zero.
 - Equation: $$\sum I_{in} = \sum I_{out}$$
-
 - Application: Used to analyze the current distribution in complex circuits. For example, 
   at a node with three branches, if the currents entering are $𝐼_{1}$ and $𝐼_{2}$, and the
   current leaving is $𝐼_{3}$, then $𝐼_{1}+𝐼_{2}=𝐼_{3}$.
-
 Kirchhoff's Voltage Law (KVL):
 - Statement: The sum of all voltages around a closed loop in a circuit is zero. This means 
   that the total energy gained by charges per loop is equal to the energy lost.
