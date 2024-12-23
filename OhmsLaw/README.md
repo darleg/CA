@@ -5,20 +5,10 @@ $$𝑉=𝐼⋅𝑅$$
 
 Where:
 
-𝑉
- is the voltage (in volts, 
-𝑉
-)
+- 𝑉 is the voltage (in volts, 𝑉)
 
-𝐼
- is the current (in amperes, 
-𝐴
-)
-
-𝑅
- is the resistance (in ohms, 
-Ω
-)
+- 𝐼 is the current (in amperes, 𝐴)
+- 𝑅 is the resistance (in ohms, Ω)
 
 In simpler terms, Ohm's Law tells us that if we increase the voltage, the current will increase, provided the resistance remains constant. Conversely, if we increase the resistance while keeping the voltage constant, the current will decrease.
 
