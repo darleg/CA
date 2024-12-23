@@ -6,7 +6,6 @@ $$𝑉=𝐼⋅𝑅$$
 Where:
 
 - 𝑉 is the voltage (in volts, 𝑉)
-
 - 𝐼 is the current (in amperes, 𝐴)
 - 𝑅 is the resistance (in ohms, Ω)
 
