@@ -1,3 +1,4 @@
+# Nodal Analysis
 Nodal analysis is a powerful method in circuit analysis used to determine the voltage 
 at each node in an electrical circuit. This method is based on Kirchhoff's Current 
 Law (KCL), which states that the sum of currents entering and leaving a node must be zero.
